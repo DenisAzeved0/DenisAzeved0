@@ -18,8 +18,6 @@
 [buymeacoffee]: https://www.buymeacoffee.com/denscoffee
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png
 
-<hr width= />
-
 [![Visits Badge](https://badges.pufler.dev/visits/DenisAzeved0/DenisAzeved0)](https://github.com/DenisAzeved0)
 
 <!--[![GitHub watchers](https://img.shields.io/github/watchers/DenisAzeved0/DenisAzeved0?color=gree&label=Visits)](https://github.com/DenisAzeved0)-->
