@@ -12,12 +12,6 @@
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/denisdeazevedo)
 [![whats](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55+51+982604215)
 
-### If you feel generous and want to show some extra appreciation: 
-[![bmc][buymeacoffee-shield]][buymeacoffee]
-
-[buymeacoffee]: https://www.buymeacoffee.com/denscoffee
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png
-
 [![Visits Badge](https://badges.pufler.dev/visits/DenisAzeved0/DenisAzeved0)](https://github.com/DenisAzeved0)
 
 <!--[![GitHub watchers](https://img.shields.io/github/watchers/DenisAzeved0/DenisAzeved0?color=gree&label=Visits)](https://github.com/DenisAzeved0)-->
